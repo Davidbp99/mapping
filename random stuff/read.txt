@@ -1,4 +1,4 @@
-These VMF in this folder is just small parts that I self decided to design in their own file then move over to other maps that I have released or not even released.
+These VMF in this folder is just small parts that I self decided to design in their own file then move over to other maps that I have released or not even released. Some stuff might not been cleaned up. As I done that after I have pasted it over to the main VMF.
 
 You self will need to track down the models and materials. Can always try and look at my workshop if you can find some of the parts.
 
